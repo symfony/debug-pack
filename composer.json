@@ -7,7 +7,7 @@
         "php": "^7.0",
         "symfony/monolog-bundle": "^3.0",
         "easycorp/easy-log-handler": "^1.0.2",
-        "symfony/web-profiler-bundle": "^3.3",
+        "symfony/profiler-pack": "^1.0",
         "symfony/phpunit-bridge": "^3.3",
         "symfony/var-dumper": "^3.3"
     }
