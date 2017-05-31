@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------
+
+by javiereguiluz at 2017-05-31T10:38:26Z
+
+Maybe we can use ^1.0 as the version constraint?
+
+---------------------------------------------------------------------------
+
+by stof at 2017-05-31T10:40:57Z
+
+Well, as the 1.0.0 and 1.0.1 release are buggy, I think putting 1.0.2 as min version is better
