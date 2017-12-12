@@ -1,6 +1,6 @@
 {
     "name": "symfony/debug-pack",
-    "type": "metapackage",
+    "type": "symfony-pack",
     "license": "MIT",
     "description": "A debug pack for Symfony projects",
     "require": {
