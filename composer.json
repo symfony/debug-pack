@@ -6,7 +6,10 @@
     "require": {
         "symfony/debug-bundle": "*",
         "symfony/monolog-bundle": "^3.0",
-        "symfony/profiler-pack": "*",
-        "symfony/var-dumper": "*"
+        "symfony/profiler-pack": "*"
+    },
+    "require-dev": {
+        "symfony/debug-bundle": "*",
+        "symfony/profiler-pack": "*"
     }
 }
