@@ -7,9 +7,5 @@
         "symfony/debug-bundle": "*",
         "symfony/monolog-bundle": "^3.0",
         "symfony/profiler-pack": "*"
-    },
-    "require-dev": {
-        "symfony/debug-bundle": "*",
-        "symfony/profiler-pack": "*"
     }
 }
