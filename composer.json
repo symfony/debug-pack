@@ -5,7 +5,7 @@
     "description": "A debug pack for Symfony projects",
     "require": {
         "symfony/debug-bundle": "*",
-        "symfony/monolog-bundle": "^3.0",
+        "symfony/monolog-bundle": "^3.0|^4.0",
         "symfony/profiler-pack": "*"
     },
     "require-dev": {
